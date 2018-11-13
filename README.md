@@ -1,11 +1,5 @@
 # Design studio one page template - ARCHIVED
 
-Flat and responsive website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax). 
-
-Demo: [http://website-templates.github.io/design-studio_one-page-template](http://website-templates.github.io/design-studio_one-page-template/)
-
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
 
 ## Contents
 * [Folder structure](#folder-and-file-structure)
@@ -167,3 +161,7 @@ This project uses BrowserSync as static server with enabled and configured live 
 
 ## License
 [MIT](https://github.com/website-templates/design-studio_one-page-template/blob/master/LICENSE.md)
+
+Flat and responsive website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax). 
+
+Demo: [http://website-templates.github.io/design-studio_one-page-template](http://website-templates.github.io/design-studio_one-page-template/)
