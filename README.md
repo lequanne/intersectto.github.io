@@ -1,5 +1,3 @@
-# Design studio one page template - ARCHIVED
-
 
 ## Contents
 * [Folder structure](#folder-and-file-structure)
